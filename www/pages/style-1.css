@@ -197,11 +197,11 @@ body{
 }
 
 .logo10{
-    background-image: url("../gfx/RAAD2_white.png");
+    background-image: url("../gfx/RAAD_white.png");
 }
 
 .logo10:hover{
-    background-image: url("../gfx/RAAD2_blue.png");
+    background-image: url("../gfx/RAAD_blue.png");
 }
 
 .logo11{
@@ -261,11 +261,6 @@ body{
 
   .headline2{
     font-size: 2.2vh;
-    
-  }
-
-  .headline22{
-    font-size: 21px;
     
   }
   
